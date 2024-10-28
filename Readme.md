@@ -1,6 +1,6 @@
 # Chinook
 
-Descripcion
+Chinook se crea para dar gestion a una tienda de musica, la cualm lleva el control sobre sus ventas, clientes, reproducciones, estadisticas, entre otros datos relacionados a los discos y canciones que proporcionar esta tienda. Tambien podemos notar el apartado de playlists para una mayor personalizacion brindada a los clientes.
 
 ## Tabla de contenido 
 
